@@ -1,1 +1,2 @@
 # resources
+# blog-assets
